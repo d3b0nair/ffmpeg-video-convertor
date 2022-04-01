@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  },
+  "name": "ffmpeg-video-convertor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d3b0nair/ffmpeg-video-convertor.git"
+  },
+  "author": "d3b0nair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d3b0nair/ffmpeg-video-convertor/issues"
+  },
+  "homepage": "https://github.com/d3b0nair/ffmpeg-video-convertor#readme",
+  "description": ""
+}
